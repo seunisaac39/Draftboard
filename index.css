@@ -1,0 +1,17 @@
+body{
+    overflow: hidden;
+}
+
+.grid-cotainer {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+}
+
+.grid-item {
+    padding: 19px;
+    background-color: cornsilk;
+    border: 1px solid black;
+    text-align: center;
+   
+ 
+}
